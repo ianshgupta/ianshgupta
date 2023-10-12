@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh Gupta</h1>
 <h3 align="center">Crafting Code, Forging Solutions !</h3>
 
+<img align="right"  alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://ansh-gupta-official.github.io/Ansh-Portfolio/](https://ansh-gupta-official.github.io/Ansh-Portfolio/)
