@@ -1,3 +1,4 @@
+![logo](https://github.com/Ansh-Gupta-Official/Ansh-Gupta-Official/blob/main/Ansh%20Gupta.png)
 <h1 align="center">Hi 👋, I'm Ansh Gupta</h1>
 <h3 align="center">Crafting Code, Forging Solutions !</h3>
 
