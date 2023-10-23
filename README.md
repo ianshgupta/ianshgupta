@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://ansh-gupta-official.github.io/Ansh-Portfolio/](https://ansh-gupta-official.github.io/Ansh-Portfolio/)
 
 - 💬 Ask me about **Java, Python, Dart, Flutter, Firebase**
 
