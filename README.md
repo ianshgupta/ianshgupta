@@ -4,10 +4,10 @@
 
 <img align="right"  alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working as a **Flutter Developer Intern**
 
 
-- 💬 Ask me about **Java, Python, Dart, Flutter, Firebase**
+- 💬 Ask me about **Java, Dart, Flutter, Firebase, Nodejs, MongoDB, MySQL**
 
 - 📫 How to reach me **abhinsh1264@gmail.com**
 
