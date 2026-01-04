@@ -1,6 +1,6 @@
 ### Hi there, I'm Ansh 👋  
 
-Flutter Developer | Frontend Engineer | UI-focused Creator | Manual QA
+Junior Software Engineet | Flutter Developer | Frontend Engineer | UI-focused Creator | Manual QA
 
 ---
 
